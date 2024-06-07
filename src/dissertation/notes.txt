@@ -1,0 +1,1 @@
+export PYTHONPATH="${PYTHONPATH}:/Users/gini/MSc_AI/Dissertation_Project/dissertation/src/dissertation/:/Users/gini/MSc_AI/Dissertation_Project/dissertation/src/"
